@@ -76,7 +76,7 @@ dev.sneyki.pluswars/
 
 ### 🗄️ Ejecución con `.jar`
 
-Si tienes el archivo `PlusWars.jar`:
+Si tienes el archivo `PlusWars.jar` (ubicado en carpeta release):
 
 ```bash
 # Navega a la carpeta donde está tu archivo .jar
