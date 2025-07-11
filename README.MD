@@ -32,7 +32,7 @@ Fue desarrollada para practicar conceptos de **Programación Orientada a Objetos
 
 ## ⚙️ Tecnologías
 
-- ☕ **Java 17+**
+- ☕ **Java 21**
 - 🌐 **SWAPI** (Star Wars API)
 - 🔗 **HttpClient**
 - 📦 **GSON** para parsear JSON
