@@ -3,8 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 *.xml
-PlusWars.iml
+*.iml
 Historial_busqueda.json
+/.idea
 
 ### Eclipse ###
 .apt_generated
